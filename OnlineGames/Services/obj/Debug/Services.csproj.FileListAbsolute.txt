@@ -1,0 +1,4 @@
+C:\Projetos\OnlineGames\baptistaOnlineGames\OnlineGames\Services\bin\Debug\Services.dll
+C:\Projetos\OnlineGames\baptistaOnlineGames\OnlineGames\Services\bin\Debug\Services.pdb
+C:\Projetos\OnlineGames\baptistaOnlineGames\OnlineGames\Services\obj\Debug\Services.dll
+C:\Projetos\OnlineGames\baptistaOnlineGames\OnlineGames\Services\obj\Debug\Services.pdb
