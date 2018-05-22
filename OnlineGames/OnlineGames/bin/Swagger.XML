@@ -481,5 +481,23 @@
             </summary>
             <param name="documentPath">The physical path to XML document.</param>
         </member>
+        <member name="T:OnlineGames.Controllers.GameResultsController">
+            <summary>
+            Game Result Controller
+            </summary>
+        </member>
+        <member name="M:OnlineGames.Controllers.GameResultsController.#ctor(Domain.Interfaces.Service.IGameResultAppService)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="gameResultAppService"></param>
+        </member>
+        <member name="M:OnlineGames.Controllers.GameResultsController.Post(Domain.Entities.GameResult.GameResult)">
+            <summary>
+            Creates a new instance of Game Result
+            </summary>
+            <param name="gameResult">Game Result data</param>
+            <returns>Service status code</returns>
+        </member>
     </members>
 </doc>

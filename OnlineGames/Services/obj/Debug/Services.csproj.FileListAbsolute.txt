@@ -5,3 +5,10 @@ C:\Projetos\OnlineGames\baptistaOnlineGames\OnlineGames\Services\obj\Debug\Servi
 C:\Projetos\OnlineGames\baptistaOnlineGames\OnlineGames\Services\bin\Debug\Domain.dll
 C:\Projetos\OnlineGames\baptistaOnlineGames\OnlineGames\Services\bin\Debug\Domain.pdb
 C:\Projetos\OnlineGames\baptistaOnlineGames\OnlineGames\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Projetos\OnlineGames\OnlineGames\Services\bin\Debug\Services.dll
+C:\Projetos\OnlineGames\OnlineGames\Services\bin\Debug\Services.pdb
+C:\Projetos\OnlineGames\OnlineGames\Services\bin\Debug\Domain.dll
+C:\Projetos\OnlineGames\OnlineGames\Services\bin\Debug\Domain.pdb
+C:\Projetos\OnlineGames\OnlineGames\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Projetos\OnlineGames\OnlineGames\Services\obj\Debug\Services.dll
+C:\Projetos\OnlineGames\OnlineGames\Services\obj\Debug\Services.pdb

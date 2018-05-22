@@ -16,7 +16,7 @@ namespace NHibernateData.Context
         static UnitOfWork()
         {
             _sessionFactory = Fluently.Configure()
-                .Database(SQLiteConfiguration.Standard.ConnectionString(c => c.FromConnectionStringWithKey("")))
+                .Database(SQLiteConfiguration.Standard.ConnectionString(c => c.FromConnectionStringWithKey("OnlineGamesConnectionString")))
                 .Mappings(m => m.FluentMappings.AddFromAssembly(Assembly.GetExecutingAssembly()))
                 .BuildSessionFactory();
         }

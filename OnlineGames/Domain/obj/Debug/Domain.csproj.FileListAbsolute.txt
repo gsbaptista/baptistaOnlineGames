@@ -3,3 +3,7 @@ C:\Projetos\OnlineGames\baptistaOnlineGames\OnlineGames\Domain\bin\Debug\Domain.
 C:\Projetos\OnlineGames\baptistaOnlineGames\OnlineGames\Domain\obj\Debug\Domain.dll
 C:\Projetos\OnlineGames\baptistaOnlineGames\OnlineGames\Domain\obj\Debug\Domain.pdb
 C:\Projetos\OnlineGames\baptistaOnlineGames\OnlineGames\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Projetos\OnlineGames\OnlineGames\Domain\bin\Debug\Domain.dll
+C:\Projetos\OnlineGames\OnlineGames\Domain\bin\Debug\Domain.pdb
+C:\Projetos\OnlineGames\OnlineGames\Domain\obj\Debug\Domain.dll
+C:\Projetos\OnlineGames\OnlineGames\Domain\obj\Debug\Domain.pdb

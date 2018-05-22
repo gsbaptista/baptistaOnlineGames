@@ -1,10 +1,9 @@
 ﻿using Domain.Entities.GameResult;
-using System;
 using System.Collections.Generic;
 
 namespace Domain.Interfaces.Service
 {
-    interface IGameResultService : IDisposable
+    public interface IGameResultAppService
     {
         void Create(GameResult gameResult);
 

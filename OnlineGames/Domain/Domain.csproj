@@ -46,12 +46,10 @@
     <Compile Include="Interfaces\Repository\IGameRepository.cs" />
     <Compile Include="Interfaces\Repository\IGameResultRepository.cs" />
     <Compile Include="Interfaces\Repository\IPlayerRepository.cs" />
-    <Compile Include="Interfaces\Service\IGameResultService.cs" />
+    <Compile Include="Interfaces\Service\IGameResultAppService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Services\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
