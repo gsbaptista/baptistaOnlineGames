@@ -90,9 +90,9 @@ C:\Projetos\OnlineGames\baptistaOnlineGames\OnlineGames\OnlineGames\bin\System.W
 C:\Projetos\OnlineGames\baptistaOnlineGames\OnlineGames\OnlineGames\bin\System.Web.WebPages.Deployment.xml
 C:\Projetos\OnlineGames\baptistaOnlineGames\OnlineGames\OnlineGames\bin\System.Web.WebPages.Razor.xml
 C:\Projetos\OnlineGames\baptistaOnlineGames\OnlineGames\OnlineGames\bin\Antlr3.Runtime.pdb
-C:\Projetos\OnlineGames\baptistaOnlineGames\OnlineGames\OnlineGames\obj\Debug\API.csprojResolveAssemblyReference.cache
 C:\Projetos\OnlineGames\baptistaOnlineGames\OnlineGames\OnlineGames\bin\API.dll.config
 C:\Projetos\OnlineGames\baptistaOnlineGames\OnlineGames\OnlineGames\bin\API.dll
 C:\Projetos\OnlineGames\baptistaOnlineGames\OnlineGames\OnlineGames\bin\API.pdb
 C:\Projetos\OnlineGames\baptistaOnlineGames\OnlineGames\OnlineGames\obj\Debug\API.dll
 C:\Projetos\OnlineGames\baptistaOnlineGames\OnlineGames\OnlineGames\obj\Debug\API.pdb
+C:\Projetos\OnlineGames\baptistaOnlineGames\OnlineGames\OnlineGames\obj\Debug\API.csprojResolveAssemblyReference.cache
